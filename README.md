@@ -1,2 +1,2 @@
 # TextSummary
-Generate Summary of a document using NLTK
+Generate Summary of a document using NLTK.
